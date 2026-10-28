@@ -1,7 +1,3 @@
-Here is your updated `README.md` with VS Code, Git, GitHub, and Python in the Technologies section, plus tables for Features and Main Components.
-
-Writing
-
 # 1\. Project Title
 
 # NumPy Analyzer
@@ -113,7 +109,6 @@ python3 main.py
 text
 
 ```
-numpy-analyzer/
 ├──main.py
 ├── output.png
 └── README.md
