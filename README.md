@@ -1,6 +1,6 @@
 # 1\. Project Title
 
-# NumPy Analyzer
+# Data Analyzer
 
 A Python-based command-line application for creating, analyzing, and manipulating NumPy arrays.
 
@@ -135,7 +135,7 @@ text
 
 **Author:** \[SRIJAN KUMAR MAURYA\]
 
-**Project Name:** NumPy Analyzer
+**Project Name:** Data Analyzer
 
 **Description:** A Python project demonstrating NumPy array manipulation and basic data analysis operations.
 
